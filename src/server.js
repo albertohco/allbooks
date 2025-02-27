@@ -20,5 +20,5 @@ server.use(router); //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("Servidor rodando na porta 8000");
-  console.log("API disponível através da URL http://localhost:8000");
+  console.log("API disponível em http://localhost:8000");
 });
